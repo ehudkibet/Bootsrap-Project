@@ -1,0 +1,48 @@
+.top-section{
+    background: url("resources/img3.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 0;
+}
+.x{
+text-align: center;
+font-size:large;
+    background: url("resources/img3.jpg");
+    background-size:cover;
+    background-position: center;
+    height: 50vh;
+}
+
+.j4{
+    color: white;
+}
+.kati{
+    font-size: 15px;
+    background-color:darkseagreen;
+    height: 30vh;
+    margin-bottom: 0;
+}
+.z{
+   height: 50vh;
+}
+ .kati.row{
+    background-color:darkseagreen;
+}
+ .kati.pk{
+     margin-bottom: 0px;
+ }
+.fg{
+    text-align: center;
+    height: 20vh;
+    background-color: lightgray;
+    background-size: cover;
+}
+
+.f1{
+    text-align: center;
+}
+.pf{
+    width: 40%;
+    margin-right: 30%;
+    margin-left: 30%;
+}

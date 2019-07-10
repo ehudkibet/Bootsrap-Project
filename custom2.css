@@ -1,0 +1,32 @@
+.juu{
+    background: url("resources/img3.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 60vh;
+}
+.x{
+    height: 60vh;
+    background: url("resources/img3.jpg");
+    background-size:cover;
+    background-position: center;
+    text-align: center;
+}
+.y{
+    height: 60vh;
+}
+.jh,jp{
+    margin-bottom: 25px;
+}
+.chini img{
+    width: 100px;
+    height: 100px;
+}
+.z{
+    height: 10vh;
+}
+.chini.row{
+    height: 20vh;
+}
